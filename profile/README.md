@@ -1,6 +1,6 @@
 # Drive-Heig-vd
 
-Bienvenue dans l'organisation Drive-Heig-vd ! Cette plateforme a été créée dans le but de faciliter le partage de documents pour les futurs ingénieurs de l'HEIG-VD. Vous trouverez ici une collection de ressources, documents et informations utiles pour votre parcours d'ingénieur.
+Bienvenue dans l'organisation Drive-Heig-vd ! Cette plateforme a été créée dans le but de faciliter le partage de documents entre les étudiants de l'HEIG-VD.
 
 ## Comment contribuer ?
 
@@ -14,7 +14,8 @@ Si vous êtes intéressé(e) par la gestion de cette organisation et que vous so
 
 ## Confidentialité
 
-Respect de la vie privée est une priorité pour nous. Si votre nom apparaît dans les documents partagés et que vous préférez ne pas être identifié, veuillez me contacter. Nous respecterons vos souhaits en matière de confidentialité.
+Respect de la vie privée est une priorité pour nous. 
+Si votre nom apparaît dans les documents partagés et que vous préférez ne pas être identifié ou que le document soit supprimé, veuillez nous contacter. Nous respecterons vos souhaits en matière de confidentialité.
 
 ## Contact
 
